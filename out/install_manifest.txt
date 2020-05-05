@@ -1,0 +1,1 @@
+/home/smallpony/Documents/cxsh/out/_CPack_Packages/Linux/TZ/cxsh-1.0.0-Linux/bin/cxsh

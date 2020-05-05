@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/smallpony/Documents/cxsh/cxsh/commands/base.cpp
+iostream
+-
+../console.h
+/home/smallpony/Documents/cxsh/cxsh/console.h
+
+/home/smallpony/Documents/cxsh/cxsh/console.h
+
