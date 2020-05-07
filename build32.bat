@@ -1,4 +1,6 @@
 md out
 cd out
-cmake .. -A Win32
+md windows
+cd windows
+cmake ../.. -A Win32
 cd ..

@@ -1,5 +1,8 @@
 #!/bin/bash
 mkdir out
-cd ./out
-cmake ..
+cd out
+mkdir linux
+cd linux
+cmake ../..
+cd ..
 cd ..
