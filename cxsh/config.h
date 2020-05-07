@@ -1,6 +1,4 @@
-
-#ifndef MAINCONFIG_H
-#define MAINCONFIG_H
-const char* version="1.0.0";
-const char* buildTime="20200505-135801";
-#endif
+
+#pragma once
+static const char* cxshVersion="1.0.0";
+static const char* cxshBuildTime="20200507-173049";

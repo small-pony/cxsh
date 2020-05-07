@@ -1,3 +1,4 @@
+#pragma once
 constexpr auto RESET = "\033[0m";
 constexpr auto BLACK = "\033[30m" /* Black */;
 constexpr auto RED = "\033[31m" /* Red */;
