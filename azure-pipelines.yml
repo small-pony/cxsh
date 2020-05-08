@@ -12,6 +12,7 @@ pool:
 steps:
 - script: |
     sudo apt-get install cmake
+    ./build
     cd out/linux/
     make
   displayName: 'make'
