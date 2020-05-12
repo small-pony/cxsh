@@ -8,6 +8,6 @@
 using namespace std;
 int main(int argc, char *argv_raw[]) {
   commands::version();
-  cout << "Hello CMake." << endl;
+  cout << "#" << endl;
   return 0;
 }
