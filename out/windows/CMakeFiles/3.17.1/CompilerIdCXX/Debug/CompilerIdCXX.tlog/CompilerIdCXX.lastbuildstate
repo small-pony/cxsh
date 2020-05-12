@@ -1,2 +1,7 @@
+<<<<<<< HEAD:out/windows/CMakeFiles/3.17.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate
 PlatformToolSet=v142:VCToolArchitecture=Native64Bit:VCToolsVersion=14.26.28801:TargetPlatformVersion=10.0.18362.0:
 Debug|x64|E:\code\c,cpp\cxsh\out\windows\CMakeFiles\3.17.1\CompilerIdCXX\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native64Bit:VCToolsVersion=14.26.28801:TargetPlatformVersion=10.0.18362.0:
+Debug|x64|E:\code\c,cpp\cxsh\out\windows\CMakeFiles\3.17.1\CompilerIdCXX\|
+>>>>>>> ad0d59f3c5b78e35ad584ed988d64b07bcdf035a:out/CMakeFiles/3.17.1/CompilerIdCXX/Debug/CompilerIdCXX.tlog/CompilerIdCXX.lastbuildstate
