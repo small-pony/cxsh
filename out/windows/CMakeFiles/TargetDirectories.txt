@@ -1,0 +1,10 @@
+E:/code/c,cpp/cxsh/out/windows/CMakeFiles/PACKAGE.dir
+E:/code/c,cpp/cxsh/out/windows/CMakeFiles/INSTALL.dir
+E:/code/c,cpp/cxsh/out/windows/CMakeFiles/ALL_BUILD.dir
+E:/code/c,cpp/cxsh/out/windows/CMakeFiles/ZERO_CHECK.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/CMakeFiles/cxsh.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/CMakeFiles/PACKAGE.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/CMakeFiles/INSTALL.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/commands/CMakeFiles/PACKAGE.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/commands/CMakeFiles/commands.dir
+E:/code/c,cpp/cxsh/out/windows/cxsh/commands/CMakeFiles/INSTALL.dir
