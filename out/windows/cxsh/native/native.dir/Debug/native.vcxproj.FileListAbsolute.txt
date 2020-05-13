@@ -1,0 +1,2 @@
+E:\code\c,cpp\cxsh\out\windows\cxsh\native\Debug\native.pdb
+E:\code\c,cpp\cxsh\out\windows\cxsh\native\native.dir\Debug\native.pdb

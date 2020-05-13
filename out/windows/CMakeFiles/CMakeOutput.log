@@ -1,4 +1,4 @@
-The system is: Windows - 10.0.19619 - AMD64
+The system is: Windows - 10.0.19624 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler:  
 Build flags: 
@@ -6,10 +6,10 @@ Id flags:
 
 The output was:
 0
-用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-生成启动时间为 2020/5/7 20:09:43。
+生成启动时间为 2020/5/13 11:20:20。
 节点 1 上的项目“E:\code\c,cpp\cxsh\out\windows\CMakeFiles\3.17.1\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
 PrepareForBuild:
   正在创建目录“Debug\”。
@@ -35,7 +35,7 @@ FinalizeBuildStatus:
     0 个警告
     0 个错误
 
-已用时间 00:00:01.67
+已用时间 00:00:00.95
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -51,10 +51,10 @@ Id flags:
 
 The output was:
 0
-用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-生成启动时间为 2020/5/7 20:09:45。
+生成启动时间为 2020/5/13 11:20:21。
 节点 1 上的项目“E:\code\c,cpp\cxsh\out\windows\CMakeFiles\3.17.1\CompilerIdCXX\CompilerIdCXX.vcxproj”(默认目标)。
 PrepareForBuild:
   正在创建目录“Debug\”。
@@ -80,7 +80,7 @@ FinalizeBuildStatus:
     0 个警告
     0 个错误
 
-已用时间 00:00:00.87
+已用时间 00:00:00.74
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,56 +92,56 @@ The CXX compiler identification is MSVC, found in "E:/code/c,cpp/cxsh/out/window
 Determining if the C compiler works passed with the following output:
 Change Dir: E:/code/c,cpp/cxsh/out/windows/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_cfaea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_0c529.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28803.1 版
-  testCCompiler.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28805 版
   版权所有(C) Microsoft Corporation。保留所有权利。
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfaea.dir\Debug\\" /Fd"cmTC_cfaea.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\testCCompiler.c"
-  cmTC_cfaea.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_cfaea.exe
+  testCCompiler.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0c529.dir\Debug\\" /Fd"cmTC_0c529.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\testCCompiler.c"
+  cmTC_0c529.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_0c529.exe
 
 
 
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: E:/code/c,cpp/cxsh/out/windows/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_edfce.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_133ba.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28803.1 版
-  CMakeCCompilerABI.c
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28805 版
   版权所有(C) Microsoft Corporation。保留所有权利。
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_edfce.dir\Debug\\" /Fd"cmTC_edfce.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "E:\Program Files (x86)\CMake\share\cmake-3.17\Modules\CMakeCCompilerABI.c"
-  cmTC_edfce.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_edfce.exe
+  CMakeCCompilerABI.c
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_133ba.dir\Debug\\" /Fd"cmTC_133ba.dir\Debug\vc142.pdb" /Gd /TC /errorReport:queue "E:\Program Files (x86)\CMake\share\cmake-3.17\Modules\CMakeCCompilerABI.c"
+  cmTC_133ba.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_133ba.exe
 
 
 
 Determining if the CXX compiler works passed with the following output:
 Change Dir: E:/code/c,cpp/cxsh/out/windows/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_6cd20.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_8e383.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28803.1 版
-  testCXXCompiler.cxx
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28805 版
   版权所有(C) Microsoft Corporation。保留所有权利。
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6cd20.dir\Debug\\" /Fd"cmTC_6cd20.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
-  cmTC_6cd20.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_6cd20.exe
+  testCXXCompiler.cxx
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8e383.dir\Debug\\" /Fd"cmTC_8e383.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  cmTC_8e383.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_8e383.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: E:/code/c,cpp/cxsh/out/windows/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_214c0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20208-15+2f58c1427
+Run Build Command(s):E:/Program Files (x86)/Microsoft Visual Studio/2019/Preview/MSBuild/Current/Bin/MSBuild.exe cmTC_974ed.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && 用于 .NET Framework 的 Microsoft (R) 生成引擎版本 16.6.0-preview-20222-04+b4f75bf75
 版权所有(C) Microsoft Corporation。保留所有权利。
 
-  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28803.1 版
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.26.28805 版
   CMakeCXXCompilerABI.cpp
   版权所有(C) Microsoft Corporation。保留所有权利。
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_214c0.dir\Debug\\" /Fd"cmTC_214c0.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "E:\Program Files (x86)\CMake\share\cmake-3.17\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_214c0.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_214c0.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_974ed.dir\Debug\\" /Fd"cmTC_974ed.dir\Debug\vc142.pdb" /Gd /TP /errorReport:queue "E:\Program Files (x86)\CMake\share\cmake-3.17\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_974ed.vcxproj -> E:\code\c,cpp\cxsh\out\windows\CMakeFiles\CMakeTmp\Debug\cmTC_974ed.exe
 
 
 

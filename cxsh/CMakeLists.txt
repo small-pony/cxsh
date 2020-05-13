@@ -6,11 +6,11 @@ cmake_minimum_required (VERSION 3.8)
 # 将源代码添加到此项目的可执行文件。
 aux_source_directory(. DIR_SRC)
 
-add_subdirectory(commands)
+add_subdirectory(native)
 
 add_executable (cxsh ${DIR_SRC})
 
-target_link_libraries(cxsh commands)
+target_link_libraries(cxsh native)
 
 
 install(TARGETS cxsh DESTINATION bin)

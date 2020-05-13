@@ -1,0 +1,8 @@
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/msvcp140.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/msvcp140_1.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/msvcp140_2.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/msvcp140_codecvt_ids.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/vcruntime140_1.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/vcruntime140.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/concrt140.dll
+E:/code/c,cpp/cxsh/out/windows/_CPack_Packages/win64/NSIS/cxsh-1.0.0-win64/bin/cxsh.exe

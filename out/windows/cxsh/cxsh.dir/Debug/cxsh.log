@@ -1,0 +1,4 @@
+﻿  Building Custom Rule E:/code/c,cpp/cxsh/cxsh/CMakeLists.txt
+  cxsh.cpp
+E:\code\c,cpp\cxsh\cxsh\config.h(1,1): warning C4335: 检测到 Mac 文件格式: 请将源文件转换为 DOS 格式或 UNIX 格式
+  cxsh.vcxproj -> E:\code\c,cpp\cxsh\out\windows\cxsh\Debug\cxsh.exe

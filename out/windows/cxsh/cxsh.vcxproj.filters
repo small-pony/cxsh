@@ -1,4 +1,3 @@
-<<<<<<< HEAD:out/windows/cxsh/cxsh.vcxproj.filters
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
@@ -15,21 +14,3 @@
     </Filter>
   </ItemGroup>
 </Project>
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
-    <ClCompile Include="E:\code\c,cpp\cxsh\cxsh\cxsh.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="E:\code\c,cpp\cxsh\cxsh\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{335F8076-BF4A-37A2-89E1-95D15382B85F}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-</Project>
->>>>>>> ad0d59f3c5b78e35ad584ed988d64b07bcdf035a:out/cxsh/cxsh.vcxproj.filters

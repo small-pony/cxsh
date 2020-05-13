@@ -1,0 +1,5 @@
+﻿  CPack: Create package using NSIS
+  CPack: Install projects
+  CPack: - Install project: cxsh [Debug]
+  CPack: Create package
+  CPack: - package: E:/code/c,cpp/cxsh/out/windows/cxsh-1.0.0-win64.exe generated.

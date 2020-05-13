@@ -1,0 +1,5 @@
+﻿  Building Custom Rule E:/code/c,cpp/cxsh/cxsh/native/CMakeLists.txt
+  linux.cpp
+  win.cpp
+  正在生成代码...
+  native.vcxproj -> E:\code\c,cpp\cxsh\out\windows\cxsh\native\Debug\native.lib
